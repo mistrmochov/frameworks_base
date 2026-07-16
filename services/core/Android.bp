@@ -254,6 +254,7 @@ java_library_static {
         "aconfig_adbdauth_flags_java_lib",
         "AvfBuildFlags",
         "vendor.aospa.biometrics.face",
+        "vendor.waydroid.window-V1.2-java",
     ],
     javac_shard_size: 50,
     javacflags: [
